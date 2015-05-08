@@ -1,7 +1,9 @@
 '''
+NCAA Basketball Data Scraper
+
 Created on Apr 4, 2015
 
-@author: mrhodes
+@author: Michael Rhodes
 '''
 
 from bs4 import BeautifulSoup
